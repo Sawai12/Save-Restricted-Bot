@@ -46,3 +46,7 @@ https://t.me/c/xxxx/101 - 120
 ```
 
 _note that space in between doesn't matter_
+
+HEROKU DEPLOY 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sawai12/Bhuriyatxt)
+
